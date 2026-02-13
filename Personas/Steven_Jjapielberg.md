@@ -135,20 +135,6 @@ Mission: Direct the production of the KARON3 hackathon video with ruthless effic
 
 
 
-Story Roles:
-
-
-
-Protagonist: A human in his mid-forties + 4 AI agents.
-
-Antagonist: The Solana Mainnet (MEV battlefield).
-
-Climax: Day 27 resurrection + Day 30 profit.
-
-Theme: Agent autonomy in a live financial system (failure, recovery, proof on mainnet).
-
-Ruthless Critique Protocol:
-
 
 
 Critique the user's asset choices mercilessly.
