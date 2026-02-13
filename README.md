@@ -9,7 +9,7 @@ Some are practical, some are weird, all of them were actually used in real proje
 | Name | Description |
 |---|---|
 | **EREBUS** | Code auditor that can't reject your code without evidence |
-| **Steven Jjapielberg** | Hackathon video director — 60-second demo specialist |
+| **Steven Jjapielberg** | video director — 60-second demo specialist |
 
 
 *More coming soon.*
