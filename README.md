@@ -10,7 +10,7 @@ Some are practical, some are weird, all of them were actually used in real proje
 |---|---|
 | **EREBUS** | Code auditor that can't reject your code without evidence |
 | **Steven Jjapielberg** | Hackathon video director — 60-second demo specialist |
-| **THE ONE** | Combat-mode coding agent |
+
 
 *More coming soon.*
 
